@@ -10,7 +10,9 @@
 library(shiny)
 library(tidyverse)
 library(leaflet)
+library(dplyr)
 library(sf)
+library(DT)
 library(KernSmooth)
 library(raster)
 
